@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniket Shobhit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **both backend and frontend web development projects**
+- 👯 I’m **a final year student pursuing bachelor's degree in Computer Science**
 
 - 🌱 I **have a keen interest in problem solving and competitive programming**
 
-- 👯 I’m **a final year student pursuing bachelor's degree in Computer Science**
-
-- 🤝 I’m currently learning **Full Stack Web Development**
+- 🔭 I’m currently working on **both backend and frontend web development projects**
 
 - 🤝 I'm passionate about **Software Development and have a keen eye on new tools and technologies.**
 
