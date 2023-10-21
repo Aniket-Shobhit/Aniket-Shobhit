@@ -3,7 +3,7 @@
 
 - 👯 I’m **a final year student pursuing bachelor's degree in Computer Science**
 
-- 🌱 I **have a keen interest in problem solving and competitive programming**
+- 🌱 I **have a keen interest in web development and building projects**
 
 - 🔭 I’m currently working on **both backend and frontend web development projects**
 
